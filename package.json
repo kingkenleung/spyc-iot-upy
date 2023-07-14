@@ -1,0 +1,8 @@
+{
+    "urls": [
+      ["src/__init__.py", "github:kingkenleung/spyc-iot-upy/src/__init__.py"],
+      ["src/wifi.py", "github:kingkenleung/spyc-iot-upy/src/utils.py"],
+      ["src/ntp.py", "github:kingkenleung/spyc-iot-upy/src/utils.py"]
+    ],
+    "version": "0.0.2"
+  }
