@@ -1,8 +1,8 @@
 {
     "urls": [
-      ["src/spyc_iot/__init__.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/__init__.py"],
-      ["src/spyc_iot/wifi.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/wifi.py"],
-      ["src/spyc_iot/ntp.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/ntp.py"]
+      ["spyc_iot/__init__.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/__init__.py"],
+      ["spyc_iot/wifi.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/wifi.py"],
+      ["spyc_iot/ntp.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/ntp.py"]
     ],
     "version": "0.0.2"
   }
