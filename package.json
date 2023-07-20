@@ -5,5 +5,5 @@
       ["spyc_iot/ntp.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/ntp.py"],
       ["spyc_iot/time.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/ntp.py"]
     ],
-    "version": "0.0.3"
+    "version": "0.0.4"
   }
