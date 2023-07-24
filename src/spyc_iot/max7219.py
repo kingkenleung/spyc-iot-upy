@@ -161,10 +161,10 @@ class Matrix8x8:
         
         self.byte_sequence(digit_pixels[digit_index], x, y, col)
         
-    def scroll_text(self, msg, refresh_rate):
+    def scroll_text(self, msg, refresh_rate, y, col = 1):
         msg_len = len(msg)
         for x in range(self.num * 8, -msg_len * 8, -1):
-            self.text(msg, x, 0, 1)
+            self.text(msg, x, y, col)
             self.show()
             sleep(1 / refresh_rate)
             self.fill(0)
