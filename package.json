@@ -6,5 +6,5 @@
       ["spyc_iot/time.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/time.py"],
       ["spyc_iot/max7219.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/max7219.py"]
     ],
-    "version": "0.0.6"
+    "version": "0.0.7"
   }
