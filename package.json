@@ -3,7 +3,8 @@
       ["spyc_iot/__init__.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/__init__.py"],
       ["spyc_iot/wifi.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/wifi.py"],
       ["spyc_iot/ntp.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/ntp.py"],
-      ["spyc_iot/time.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/ntp.py"]
+      ["spyc_iot/time.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/time.py"],
+      ["spyc_iot/max7219.py", "github:kingkenleung/spyc-iot-upy/src/spyc_iot/max7219.py"]
     ],
-    "version": "0.0.4"
+    "version": "0.0.6"
   }
